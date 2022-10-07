@@ -1,6 +1,4 @@
 import random
-
-### CREATED BY GAVIN RAPP ###
 ### SIMPLE PASSWORD GENERATOR ###
 
 chars = "1234567890-=+qwertyuiopasdfghjklzxcvbnm,.<>/?;:'[()*&^%$#@!~`{]}\|'"
